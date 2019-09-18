@@ -5,4 +5,4 @@ A short tutorial showing the basics of how to use a TB6612FNG motor driver conne
 ![Pin Mappings](https://github.com/rutgers/TB6612FNG-Tutorial/raw/master/img/Pin_Mappings.png)
 
 ## The effects of different values on how the motor runs
-![Pin Effects](https://github.com/rutgers/TB6612FNG-Tutorial/raw/master/Pin_Value_Effects.png)
+![Pin Effects](https://github.com/rutgers/TB6612FNG-Tutorial/raw/master/img/Pin_Value_Effects.png)
